@@ -1,2 +1,3 @@
 # tabnews-clone
-Clone do Tabnews 
+
+Clone do Tabnews
